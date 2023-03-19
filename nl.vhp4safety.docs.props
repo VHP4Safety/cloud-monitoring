@@ -1,4 +1,4 @@
 url='https://docs.vhp4safety.nl/en/latest/'
 pkg="nl.vhp4safety.cloud"
-report='Documentation Website'
+report='DocumentationWebsite'
 expectedContent='the VHP4Safety documentation'
