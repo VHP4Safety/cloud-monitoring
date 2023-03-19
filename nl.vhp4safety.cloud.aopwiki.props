@@ -1,0 +1,4 @@
+url='https://aopwiki.cloud.vhp4safety.nl/'
+pkg="nl.vhp4safety.cloud.service"
+report='AOPWiki'
+expectedContent='AOP-Wiki'
