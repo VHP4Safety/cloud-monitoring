@@ -1,0 +1,4 @@
+url='https://cdkdepict.cloud.vhp4safety.nl/'
+pkg="nl.vhp4safety.cloud.service"
+report='CDKDepict'
+expectedContent='Generate depictions of molecules and reactions'
