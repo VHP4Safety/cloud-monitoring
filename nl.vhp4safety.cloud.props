@@ -1,0 +1,4 @@
+url='https://cloud.vhp4safety.nl/'
+pkg="nl.vhp4safety.cloud"
+report='MainCloudWebsite'
+expectedContent='VHP4Safety needs a cloud with a high diversity'
