@@ -1,0 +1,4 @@
+url='https://compoundcloud.wikibase.cloud/'
+pkg="nl.vhp4safety.cloud"
+report='Compound Wiki'
+expectedContent='Wikibase contains information about toxic, safe, and potentially toxic compounds'
