@@ -1,4 +1,4 @@
-url=' https://sombie.cloud.vhp4safety.nl/'
+url='https://sombie.cloud.vhp4safety.nl/'
 pkg="nl.vhp4safety.cloud.service"
 report='SOMbie'
 expectedContent='The requested URL was not found on the server'
