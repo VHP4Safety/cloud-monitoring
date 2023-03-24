@@ -4,7 +4,7 @@ source $1
 attempts=3
 timeout=5
 online=false
-useragent="BiGCaT Website Monitor"
+useragent="VHP Cloud Monitor"
 
 echo "Checking status of $url."
 
